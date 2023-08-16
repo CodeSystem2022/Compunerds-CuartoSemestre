@@ -25,8 +25,7 @@
 
 | **Sprint** | **Scrum Asignado** 🪪 | **JavaScript** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | **Python** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  | **Java** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| Semana 1 | *NoAsignado* | *NoAsignado* | *NoAsignado* | *NoAsignado* 
-| Int | *Kevin Sosa* | *Carla Faes* | *Nicolas Segovia* | *Giuliana Dealbera* 
+| Semana 1 | *Nicolas Segovia*  | *Carla Faes* | *Giuliana Dealbera* | *Kevin Sosa* 
 <br>
 
 

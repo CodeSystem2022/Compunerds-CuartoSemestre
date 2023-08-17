@@ -6,7 +6,7 @@
 
 
 <h3 align="center">Laboratorio IV <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></h3> 
-<h3 align="center">Metodología de Sistemas <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></h3>
+<h3 align="center">Metodología de Sistemas <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height=30 src="https://img.icons8.com/fluency/48/node-js.png" /> </h3> 
 <br> 
 <br> 
 
@@ -23,9 +23,9 @@
 
 <h2> 🗓️ Organización por Sprint: </h2>
 
-| **Sprint** | **Scrum Asignado** 🪪 | **JavaScript** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | **Python** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  | **Java** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| Semana 1 | *Nicolas Segovia*  | *Carla Faes* | *Giuliana Dealbera* | *Kevin Sosa* 
+| **Sprint** <img height=20 src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-agile-agile-development-soft-fill-soft-fill-juicy-fish-24.png" />| **Scrum Master** <img height=20 src="https://img.icons8.com/cotton/64/000000/conference.png" /> | **Python** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | **JavaScript** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> |  **Java** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> | **Node**  <img height=20 src="https://img.icons8.com/fluency/48/node-js.png" /> |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Semana 1 | *Nicolas Segovia*  | *Giuliana Dealbera* | *Carla Faes* | *Kevin Sosa* | *Todos*  
 <br>
 
 

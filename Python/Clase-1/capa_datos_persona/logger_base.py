@@ -2,7 +2,7 @@ import logging as log
 
 #docs.python.org/3/howto/logging.html
 # llamamos una configuracion basica
-log.basicConfig(level=log.INFO,
+log.basicConfig(level=log.INFO, #cambiar INFO por DEBUG para visualizar los errores que ocurren
                 format='%(asctime)s:%(levelname)s [%(filename)s:%(lineno)s] %(message)s',
                 datefmt='%I-%M-%S %p',
                 handlers=[

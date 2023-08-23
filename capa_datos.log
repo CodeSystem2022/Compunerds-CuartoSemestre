@@ -1,0 +1,8 @@
+03-22-50 PM:INFO [logger_base.py:15] Mensaje a nivel info
+03-22-50 PM:WARNING [logger_base.py:16] Mensaje a nivel warning
+03-22-50 PM:ERROR [logger_base.py:17] Mensaje a nivel error
+03-22-50 PM:CRITICAL [logger_base.py:18] Mensaje a nivel critical
+03-35-05 PM:INFO [logger_base.py:15] Mensaje a nivel info
+03-35-05 PM:WARNING [logger_base.py:16] Mensaje a nivel warning
+03-35-05 PM:ERROR [logger_base.py:17] Mensaje a nivel error
+03-35-05 PM:CRITICAL [logger_base.py:18] Mensaje a nivel critical

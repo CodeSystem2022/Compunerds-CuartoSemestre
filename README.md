@@ -26,8 +26,6 @@
 | **Sprint** <img height=20 src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-agile-agile-development-soft-fill-soft-fill-juicy-fish-24.png" />| **Scrum Master** <img height=20 src="https://img.icons8.com/cotton/64/000000/conference.png" /> | **Python** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | **JavaScript** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> |  **Java** <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> | **Node**  <img height=20 src="https://img.icons8.com/fluency/48/node-js.png" /> |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Semana 1 | *Nicolas Segovia*  | *Giuliana Dealbera* | *Carla Faes* | *Kevin Sosa* | *Todos*  
-<br>
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Semana 2 | *Carla Faes*  | *-----* | *------* | *Nicolas Segovia* | *Giuliana Dealbera*  
 <br>
 

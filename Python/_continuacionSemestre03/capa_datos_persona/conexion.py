@@ -3,10 +3,11 @@ import psycopg2 as bd
 from logger_base import log
 import sys
 
+
 class Conexion:
     _DATABASE = 'test_bd'
-    _USERNAME = 'carla'
-    _PASSWORD = '12345'
+    _USERNAME = 'giuliana'
+    _PASSWORD = '67890'
     _DB_PORT = '5432'
     _HOST = 'localhost'
     # _conexion = None
@@ -77,6 +78,7 @@ class Conexion:
     @classmethod
     def cerrarConexiones(cls):
         cls.obtenerPool().closeall()
+
 
 if __name__ == '__main__':
     # Conexion.obtenerConexion()

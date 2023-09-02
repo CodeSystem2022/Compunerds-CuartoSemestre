@@ -1,11 +1,11 @@
 from logger_base import log
 from conexion import Conexion
 
+
 class CursorDelPool:
     def __init__(self):
         self.conexion = None
         self._cursor = None
-
 
     def __enter__(self):
         log.debug('Inicio del método with y __enter__')
@@ -23,6 +23,7 @@ class CursorDelPool:
             log.debug('Commit de la transacción')
         self._cursor.close()
         Conexion.liberarConexion(self._conexion)
+
 
 if __name__ == '__main__':
     with CursorDelPool() as cursor:

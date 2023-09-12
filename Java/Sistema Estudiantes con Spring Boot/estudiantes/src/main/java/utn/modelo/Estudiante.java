@@ -1,4 +1,4 @@
-package utn.estudiantes.modelo;
+package utn.modelo;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

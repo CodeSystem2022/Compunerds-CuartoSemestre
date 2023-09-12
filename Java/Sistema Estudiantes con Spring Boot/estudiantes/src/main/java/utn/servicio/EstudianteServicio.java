@@ -2,7 +2,8 @@ package utn.servicio;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import utn.estudiantes.modelo.Estudiante;
+
+import utn.modelo.Estudiante;
 import utn.repositorio.EstudianteRepositorio;
 
 import java.util.List;

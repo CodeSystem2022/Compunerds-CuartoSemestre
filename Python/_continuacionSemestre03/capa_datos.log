@@ -1,0 +1,2 @@
+05-52-23 PM:DEBUG [cursor_del_pool.py:11] Inicio del método with y __enter__
+05-52-23 PM:ERROR [conexion.py:68] Ocurrio un error al obtener el pool:

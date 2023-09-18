@@ -1,5 +1,5 @@
 const modalContainer = document.getElementById("modal-container");
-const modalOverlay = document.getEIementById("modal-overlay");
+const modalOverlay = document.getElementById("modal-overlay");
 const cartBtn = document.getElementById("cart-btn");
 
 const displayCart = () => {

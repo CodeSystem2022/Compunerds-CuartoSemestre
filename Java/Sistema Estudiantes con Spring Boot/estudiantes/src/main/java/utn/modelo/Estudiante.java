@@ -9,15 +9,13 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-
 @Entity 
-
 //boilerplate - CodigoRepetitivo
 @Data 
 @NoArgsConstructor 
 @AllArgsConstructor 
 @ToString 
-public class Estudiante {
+public class Estudiantes2022 {
     @Id 
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer idEstudiante;

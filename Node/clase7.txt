@@ -1,0 +1,11 @@
+Se instala Nodemon para mantener el servidor corriendo
+npm install -g nodemon
+
+se ejecuta con:
+nodemon <nombreDelArchivo>
+
+Se instala PM2, para mantener el servidor corriendo, y obtener mas detalles de la ejecucion.
+npm i pm2 -g
+
+se ejecuta con :
+pm2 start <nombreDelArchivo>

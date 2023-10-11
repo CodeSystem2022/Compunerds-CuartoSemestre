@@ -9,3 +9,5 @@ npm i pm2 -g
 
 se ejecuta con :
 pm2 start <nombreDelArchivo>
+para monitorizar:
+pm2 monitor <nombreDelArchivo>

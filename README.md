@@ -32,6 +32,7 @@
 | Semana 5 | *Nicolas Segovia*  | *------* | *Kevin Sosa* | *Giuliana Dealbera* | *Nicolas Segovia*
 | Semana 6 | *Carla Faes*  | *Carla Faes* | *Nicolas Segovia* | *Kevin Sosa* | *Giuliana Dealbera*
 | Semana 7 | *Giuliana Dealbera*  | *Giuliana Dealbera* | *Kevin Sosa* | *Nicolas Segovia* | *Carla Faes*
+| Semana 8 | *Kevin Sosa*  | *Carla Faes* | *Kevin Sosa* | *Giuliana Dealbera* | *Nicolas Segovia*
 <br>
 
 

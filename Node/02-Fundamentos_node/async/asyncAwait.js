@@ -1,4 +1,4 @@
-function hola(nombre){
+async function hola(nombre){
     return new Promise(function(resolve, reject){
         setTimeout(function() {
             console.log("Hola " + nombre);
@@ -27,19 +27,18 @@ function adios(nombre) {
 };
 
 
-//--- PROCESO PRINCIPAL ---
-console.log('Iniciando el proceso....')
-console.log(' ')
-hola('Nana')
-    .then(hablar)
-    .then(hablar)
-    .then(hablar)
-    .then(adios)
-    .then((nombre) => {        
-        console.log(' ')
-        console.log('Terminando el proceso....')
-    })
-    .catch(error => {
-        console.log('Ha habido un error en: ');
-        console.log(error);
-    });
+// await hola('Lulu'); esta mal la sintaxis. 
+// await solo es válido dentro de una función asincrona
+async function main(){
+    let nombre = await hola('Lulu');
+    await hablar();
+    await hablar();
+    await hablar();
+    await hablar();
+    await adios(nombre);
+    console.log('Terminamos el proceso...')
+}
+
+
+console.log('Empezamos el proceso...')
+main();
